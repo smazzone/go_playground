@@ -1,0 +1,3 @@
+# go playground
+# a collection of stuff to practice with the language
+# this is a work in progress...
